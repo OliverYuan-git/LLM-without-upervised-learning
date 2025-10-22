@@ -1,1 +1,1 @@
-# LLM-without-upervised-learning
+# LLM-without-supervised-learning
